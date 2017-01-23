@@ -1,0 +1,352 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		491995771DEE3FFF00CB1A78 /* RunAway.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491995761DEE3FFF00CB1A78 /* RunAway.mp3 */; };
+		491995791DEE405800CB1A78 /* Can't Tell Me Nothing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491995781DEE405800CB1A78 /* Can't Tell Me Nothing.mp3 */; };
+		4919957B1DEE406000CB1A78 /* Father Stretch My Hands Pt1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4919957A1DEE406000CB1A78 /* Father Stretch My Hands Pt1.mp3 */; };
+		491995851DEE4E8200CB1A78 /* Break It Down Mix.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491995841DEE4E8200CB1A78 /* Break It Down Mix.mp3 */; };
+		491995871DEE4EA000CB1A78 /* Loyalty Mix.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 491995861DEE4EA000CB1A78 /* Loyalty Mix.mp3 */; };
+		4940A24A1DED27C9008E124B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4940A2491DED27C9008E124B /* AppDelegate.swift */; };
+		4940A24C1DED27C9008E124B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4940A24B1DED27C9008E124B /* ViewController.swift */; };
+		4940A24F1DED27C9008E124B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4940A24D1DED27C9008E124B /* Main.storyboard */; };
+		4940A2511DED27C9008E124B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4940A2501DED27C9008E124B /* Assets.xcassets */; };
+		4940A2541DED27C9008E124B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4940A2521DED27C9008E124B /* LaunchScreen.storyboard */; };
+		4940A25C1DED2847008E124B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4940A25B1DED2847008E124B /* SecondViewController.swift */; };
+		4940A2601DEDFEF3008E124B /* piano.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4940A25F1DEDFEF3008E124B /* piano.mp3 */; };
+		4996DA4E1DF20F8A00A9BA0A /* ipod.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4996DA4D1DF20F8A00A9BA0A /* ipod.jpg */; };
+		4996DA561DF5F96100A9BA0A /* playIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4996DA551DF5F96100A9BA0A /* playIcon.png */; };
+		4996DA5C1DF5FABC00A9BA0A /* pauseIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4996DA5B1DF5FABC00A9BA0A /* pauseIcon.png */; };
+		4996DA601DF5FD0D00A9BA0A /* Logomakr_07DiD4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4996DA5F1DF5FD0D00A9BA0A /* Logomakr_07DiD4.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		491995761DEE3FFF00CB1A78 /* RunAway.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = RunAway.mp3; sourceTree = "<group>"; };
+		491995781DEE405800CB1A78 /* Can't Tell Me Nothing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Can't Tell Me Nothing.mp3"; sourceTree = "<group>"; };
+		4919957A1DEE406000CB1A78 /* Father Stretch My Hands Pt1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Father Stretch My Hands Pt1.mp3"; sourceTree = "<group>"; };
+		491995841DEE4E8200CB1A78 /* Break It Down Mix.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Break It Down Mix.mp3"; sourceTree = "<group>"; };
+		491995861DEE4EA000CB1A78 /* Loyalty Mix.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Loyalty Mix.mp3"; sourceTree = "<group>"; };
+		4940A2461DED27C9008E124B /* BloomBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BloomBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4940A2491DED27C9008E124B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4940A24B1DED27C9008E124B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4940A24E1DED27C9008E124B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4940A2501DED27C9008E124B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4940A2531DED27C9008E124B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4940A2551DED27C9008E124B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4940A25B1DED2847008E124B /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		4940A25F1DEDFEF3008E124B /* piano.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano.mp3; sourceTree = "<group>"; };
+		4996DA4D1DF20F8A00A9BA0A /* ipod.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipod.jpg; sourceTree = "<group>"; };
+		4996DA551DF5F96100A9BA0A /* playIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playIcon.png; sourceTree = "<group>"; };
+		4996DA5B1DF5FABC00A9BA0A /* pauseIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseIcon.png; sourceTree = "<group>"; };
+		4996DA5F1DF5FD0D00A9BA0A /* Logomakr_07DiD4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logomakr_07DiD4.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4940A2431DED27C8008E124B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4940A23D1DED27C8008E124B = {
+			isa = PBXGroup;
+			children = (
+				4940A2481DED27C9008E124B /* BloomBox */,
+				4940A2471DED27C9008E124B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4940A2471DED27C9008E124B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4940A2461DED27C9008E124B /* BloomBox.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4940A2481DED27C9008E124B /* BloomBox */ = {
+			isa = PBXGroup;
+			children = (
+				4940A2491DED27C9008E124B /* AppDelegate.swift */,
+				4940A25B1DED2847008E124B /* SecondViewController.swift */,
+				4940A24B1DED27C9008E124B /* ViewController.swift */,
+				4940A24D1DED27C9008E124B /* Main.storyboard */,
+				491995781DEE405800CB1A78 /* Can't Tell Me Nothing.mp3 */,
+				491995861DEE4EA000CB1A78 /* Loyalty Mix.mp3 */,
+				4996DA5B1DF5FABC00A9BA0A /* pauseIcon.png */,
+				4996DA5F1DF5FD0D00A9BA0A /* Logomakr_07DiD4.png */,
+				4996DA551DF5F96100A9BA0A /* playIcon.png */,
+				491995841DEE4E8200CB1A78 /* Break It Down Mix.mp3 */,
+				4996DA4D1DF20F8A00A9BA0A /* ipod.jpg */,
+				491995761DEE3FFF00CB1A78 /* RunAway.mp3 */,
+				4919957A1DEE406000CB1A78 /* Father Stretch My Hands Pt1.mp3 */,
+				4940A25F1DEDFEF3008E124B /* piano.mp3 */,
+				4940A2501DED27C9008E124B /* Assets.xcassets */,
+				4940A2521DED27C9008E124B /* LaunchScreen.storyboard */,
+				4940A2551DED27C9008E124B /* Info.plist */,
+			);
+			path = BloomBox;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4940A2451DED27C8008E124B /* BloomBox */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4940A2581DED27C9008E124B /* Build configuration list for PBXNativeTarget "BloomBox" */;
+			buildPhases = (
+				4940A2421DED27C8008E124B /* Sources */,
+				4940A2431DED27C8008E124B /* Frameworks */,
+				4940A2441DED27C8008E124B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BloomBox;
+			productName = BloomBox;
+			productReference = 4940A2461DED27C9008E124B /* BloomBox.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4940A23E1DED27C8008E124B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = zcheshire;
+				TargetAttributes = {
+					4940A2451DED27C8008E124B = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = E55286BQ76;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 4940A2411DED27C8008E124B /* Build configuration list for PBXProject "BloomBox" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4940A23D1DED27C8008E124B;
+			productRefGroup = 4940A2471DED27C9008E124B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4940A2451DED27C8008E124B /* BloomBox */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4940A2441DED27C8008E124B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				491995771DEE3FFF00CB1A78 /* RunAway.mp3 in Resources */,
+				491995791DEE405800CB1A78 /* Can't Tell Me Nothing.mp3 in Resources */,
+				4940A2541DED27C9008E124B /* LaunchScreen.storyboard in Resources */,
+				4996DA601DF5FD0D00A9BA0A /* Logomakr_07DiD4.png in Resources */,
+				4940A2511DED27C9008E124B /* Assets.xcassets in Resources */,
+				491995851DEE4E8200CB1A78 /* Break It Down Mix.mp3 in Resources */,
+				4996DA4E1DF20F8A00A9BA0A /* ipod.jpg in Resources */,
+				4996DA5C1DF5FABC00A9BA0A /* pauseIcon.png in Resources */,
+				491995871DEE4EA000CB1A78 /* Loyalty Mix.mp3 in Resources */,
+				4996DA561DF5F96100A9BA0A /* playIcon.png in Resources */,
+				4940A2601DEDFEF3008E124B /* piano.mp3 in Resources */,
+				4919957B1DEE406000CB1A78 /* Father Stretch My Hands Pt1.mp3 in Resources */,
+				4940A24F1DED27C9008E124B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4940A2421DED27C8008E124B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4940A25C1DED2847008E124B /* SecondViewController.swift in Sources */,
+				4940A24C1DED27C9008E124B /* ViewController.swift in Sources */,
+				4940A24A1DED27C9008E124B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4940A24D1DED27C9008E124B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4940A24E1DED27C9008E124B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4940A2521DED27C9008E124B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4940A2531DED27C9008E124B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4940A2561DED27C9008E124B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4940A2571DED27C9008E124B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4940A2591DED27C9008E124B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E55286BQ76;
+				INFOPLIST_FILE = BloomBox/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = self.edu.BloomBoxx;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4940A25A1DED27C9008E124B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E55286BQ76;
+				INFOPLIST_FILE = BloomBox/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = self.edu.BloomBoxx;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4940A2411DED27C8008E124B /* Build configuration list for PBXProject "BloomBox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4940A2561DED27C9008E124B /* Debug */,
+				4940A2571DED27C9008E124B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4940A2581DED27C9008E124B /* Build configuration list for PBXNativeTarget "BloomBox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4940A2591DED27C9008E124B /* Debug */,
+				4940A25A1DED27C9008E124B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4940A23E1DED27C8008E124B /* Project object */;
+}
